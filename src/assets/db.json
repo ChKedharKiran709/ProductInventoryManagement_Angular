@@ -26,25 +26,34 @@
       "location": "Kolkata",
       "mobileNumber": "8588585857",
       "id": 3
+    },
+    {
+      "email": "kedhark@gmail.com",
+      "password": "kiran123",
+      "firstName": "Kedhar",
+      "lastName": "Ch",
+      "location": "Bengaluru",
+      "mobileNumber": "8585858585",
+      "id": 4
+    },
+    {
+      "email": "kedhar@gmail.com",
+      "password": "Kiran123",
+      "firstName": "Kedhar Kiran",
+      "lastName": "Ch",
+      "location": "Kharagpur",
+      "mobileNumber": "7093823467",
+      "id": 5
     }
   ],
   "products": [
     {
       "id": 101,
       "name": "Laptop",
-      "description": "A powerful gaming laptop",
-      "manufacturer": "Tech Corp",
+      "description": "i7 Processor ",
+      "manufacturer": "Dell",
       "price": 1200,
       "quantity": 100
-    },
-    {
-      "id": 102,
-      "name": "Smartphone",
-      "description": "Latest smartphone with 5G",
-      "manufacturer": "Mobile Inc",
-      "manufacturingDate": "2024-02-15",
-      "price": 800,
-      "quantity": 25
     }
   ]
 }
